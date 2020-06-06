@@ -5,7 +5,7 @@
 The project can be found at http://www.johnnycashhasbeeneverywhere.com/
 
 ## Introduction
-The goal of the project is to provide a chronological guide to the places Johny Cash mentiones in the "I've Been Everywhere" song. The project was created by Iain Mullan for Music Hack Day London 2012. The project was designed for entertainment purposes. On his website, Iain describes it as
+The goal of the project is to provide a chronological guide to the places Johny Cash mentions in the "I've Been Everywhere" song. The project was created by Iain Mullan for Music Hack Day London 2012. The project was designed for entertainment purposes. On his website, Iain describes it as
 >"A silly yet popular hack involving a map and some Johnny Cash lyrics."
 
 The project has gone viral since it was first created in 2012 and has been featured in multiple media outlets:
@@ -125,7 +125,7 @@ The thematic layer for this project is the places mentioned by Johny Cash in the
 * Uses HTTP, and thus is less secure compared to HTTPS.
 
 ## Reflection
-Just because this project might not use any cutting edge technology to solve any real world problems, or tell a meaningful story with a powerful message behind it doesn't mean you should write it off. In fact, the reason that the project is so popular might be because it is "silly" or light hearted. Sometimes people need a break from all the stress and anxieties of the world, and this project is perfect for that reason. 
+Although this project might not use any cutting edge technology to solve any real world problems, or tell a meaningful story with a powerful message behind it doesn't mean you should write it off. In fact, the reason that the project is so popular might be because it is "silly" or light hearted. Sometimes people need a break from all the stress and anxieties of the world, and this project is perfect for that reason. 
 
 At its core, this project is a music project, and there have been countless studies proving that music can have a positive impact on one's health. According to Medical News Today, music can reduce pain and anxiety, relieve stress, help with recalling memories, help patients recover from brain injuries, and treat seizures. This project will probably not be used to treat brain injuries, but there's no reason to believe that it is incapable of providing any health benefits. Even if it is as simple as making you smile for a minute or two. I hope the project brings you joy as it did for me.  
 
