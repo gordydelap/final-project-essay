@@ -22,7 +22,7 @@ The project has gone viral since it was first created and has been featured in m
 ## Target Audience
 Since this project is meant for entertainment purposes, it is meant for and can be enjoyed by pretty much anyone. Especially fans of Johny Cash or music fans in general.
 
-## Project Author
+## About the Project Author
 The project was created by Iain Mullan, a London based full-stack software developer. According to [Iain's website](https://iainmullan.com/), his recent roles focus around DevOps on Amazon Web Services. Iain currently works for Fitness Tech Group as a technical lead and has worked there since August 2019. 
 
 ## Systematic Architecture
@@ -86,10 +86,23 @@ After inspection, it appears as though he is using the [haversine formula](https
 ## Web Map Design
 
 ### UI/UX
+This project has a relatively basic UI/UX design, which for the most part works well. The top of the page features the panel that displays the lyrics in realtime, and contains buttons that let you control the playback of the song.
+![](img/toppanel)
+Unfortunately, the buttons do not allow you to rewind the song, so if you want to go back you will be forced to refresh the page and start the song over again. This is probably the project's biggest flaw.
+
+Two more panels can found at the bottom of the page. One contains the distance traveled, and the other is used for acknowledgements and links to follow Iain.
+![](img/bottompanels.png)
+As far as I'm concerned, there is nothing wrong with the design of these panels since they are small and out of the way of the map view.
 
 ### Basemap
+The project's default basemap is Google Map's basic roadmap, which is perfect for a project like this since it shows shows roads, states, and major cities without overloading the user with information. The basemap can also be changed to a satellite or terrain basemap by using clicking the map buttons located at the top right corner of the page. However, I would not suggest changing it since the roadmap is the most effective. More information about the available basemaps can be found on the [Google Maps API documentation page](https://developers.google.com/maps/documentation/javascript/maptypes#BasicMapTypes).
 
 ### Thematic Layer
+The thematic layer for this project is the places mentioned by Johny Cash in the "I've Been Everywhere" song. Each place is mapped in realtime when it is mentioned in the song. The layer is symbolized using an image of Johny Cash's face. You can interact with the layer by hovering your mouse over each Johny Cash face, and the name of the place will be displayed. 
+
+## Strengths
+
+## Weaknesses
 
 ## Social Implications
 
