@@ -30,6 +30,7 @@ The project was created by Iain Mullan, a London based full-stack software devel
 ## Systematic Architecture
 This project is hosted on an external network, meaning it can be accessed by anyone using a web browser. Each user has access to their own web client. The web client then pulls information from the internal network, which consists of a web server. For this project, the web server stores the HTML, JavaScript, and CSS files that are used by the web client. For example, some of the files stored by the web server in this project are the `index.html`, `lyrics.js`, and `style.css` files.
 ![](img/webserver.png)
+
 The client also pulls information from other web servers. In the case of this project, the client is receiving map information from the Google Maps server and real-time song lyrics from the MusixMatch web server. 
 
 ## Inspecting the Code
